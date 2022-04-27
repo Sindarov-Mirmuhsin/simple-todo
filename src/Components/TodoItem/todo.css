@@ -1,0 +1,30 @@
+
+
+.item{
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  margin-bottom: 5px;
+}
+
+.completed{
+  text-decoration: line-through;
+}
+
+.input{
+  position: absolute;
+  left: 680px;
+  top: 95px;
+  border: 3px solid green;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.btn{
+  background-color: red;
+  color: white;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  padding: 5px;
+}
+

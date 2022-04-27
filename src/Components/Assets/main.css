@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: gray;
+}
+
+.list{
+  position: relative;
+  left: 20px;
+  top: 150px;
+  width: 200px;
+  margin: 0 auto;
+  padding-left: 0;
+}
